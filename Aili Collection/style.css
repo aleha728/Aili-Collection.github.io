@@ -1,0 +1,139 @@
+body.index{
+    background: linear-gradient(rgba(0,0,0,0.5), rgba(0,0,0,0.5)), url('background.jpg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;  
+    background-size: 1537px 757px;
+}
+
+body{
+margin: 0;
+}
+
+.home-parent-div{
+    width: 1400px;
+    margin: auto;
+    margin-top: 200px;
+    font-family: "Caveat", cursive;
+}
+
+.home-children-div{
+    color: azure;
+    width:50% ;
+}
+
+.float-left{
+    float: left;
+}
+
+.float-right{
+    float: right;
+}
+
+.home-link-contain a{
+    color: azure;
+    text-decoration: none;
+    font-size: 40px;
+    letter-spacing: 4px;
+}
+
+.home-children-div h1{
+    font-size: 50px;
+    text-align: center;
+}
+
+#left-home-child{
+    margin-top: 45px;
+}
+
+.home-children-div p{
+font-size: 35px;
+text-align: center;
+}
+
+.home-link-contain{
+    margin-bottom: 30px;
+}
+
+.home-to-about-btn{
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color: transparent;
+    color: white;
+    padding: 10px 8px;
+    font-size: 18px;
+    cursor: pointer;
+}
+
+a.home-to-about-btn{
+    text-decoration: none;
+    text-align: center;
+}
+
+.to-about-btn{
+    margin-top: 50px;
+    text-align: center;
+    }
+
+.clearfix{
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+.body-about{
+     width: 100%;
+     font-family: "Caveat", cursive; 
+  }
+
+.navigasi{
+     width: 100%;
+     background-color: #d3ab9b;
+  }
+
+.navigasi-contain{
+    width: 1000px;
+    padding: 25px 0px;
+    color: white;
+    margin: auto;
+    font-size: 24px;
+  }
+
+.navigasi-contain a{
+    color: white;
+    text-decoration: none;
+    margin-right: 30px;
+}
+
+.about-perent-div{
+    width: 1400px;
+    margin: auto;
+}
+
+.about-title-div{
+    margin-top: 50px;
+    text-align: center; 
+    width: 100%;
+    font-size: 20px;
+}
+
+.about-children-div{
+    width: 50%;
+    box-sizing: border-box;
+}
+
+.about-logo-contain{
+    width: 72%;
+    margin: auto;
+}
+
+.about-logo-contain img{
+     border-radius: 50%;
+}
+
+.about-children-div p{
+    font-size: 18px;
+}
+
+
+
+
